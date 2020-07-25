@@ -10,4 +10,6 @@ Here are some of the static html, css based webpages
 
 4) It is a static loading page with BB-8 rolling on its position: https://sarveshggn.github.io/bb8_loader/
 
+5) A static 404 Not Found site made with html, css: https://sarveshggn.github.io/error_page/
+
 More to come soon....
